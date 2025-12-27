@@ -76,6 +76,8 @@ Percentages were prioritized over raw figures to enhance interpretability
 
 🔐 File Access & Security
 The Excel file attached to this repository is encrypted to protect data integrity.
+[Dashboards Folder](dashboards/)
+
 
 🔑 Access Request
 To request access to the file password, kindly send an email to:
@@ -89,5 +91,7 @@ Writing meaningful DAX measures
 Designing stakeholder-friendly dashboards
 Making informed, analytical, and UX decisions
 It reflects my growth as a young data analyst and my ability to translate raw data into actionable business insights.
-Feedback, collaboration, and suggestions for improvement are welcome.
+
+Feedback, collaboration, and suggestions for improvement are welcome. [Meet me on LinkedIn](https://www.linkedin.com/in/omotosooluwole/)
+
 
