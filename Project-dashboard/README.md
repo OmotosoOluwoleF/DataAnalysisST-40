@@ -78,7 +78,7 @@ Percentages were prioritized over raw figures to enhance interpretability
 
 🔐 File Access & Security
 The Excel file attached to this repository is encrypted to protect data integrity.
-[Dashboards View](Project-dashboard/Project DASHBOARD.png)
+[View Dashboard](Project-DASHBOARD.png)
 [Dataset](SecondDashboard.xlsx) 
 
 
