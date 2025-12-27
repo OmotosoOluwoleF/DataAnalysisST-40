@@ -76,10 +76,12 @@ Percentages were prioritized over raw figures to enhance interpretability
 
 🔐 File Access & Security
 The Excel file attached to this repository is encrypted to protect data integrity.
-[Dashboards Folder](dashboards/)
+[Dashboards View](Project-dashboard/ProjectDASHBOARD.png) 
+[Dataset](Project-dashboard/SecondDashboard.xlsx) 
 
 
 🔑 Access Request
+
 To request access to the file password, kindly send an email to:
 holuworlex@gmail.com
 Your request will be reviewed and access granted accordingly.
