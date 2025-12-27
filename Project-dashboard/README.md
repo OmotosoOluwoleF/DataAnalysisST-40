@@ -10,6 +10,8 @@ GitHub: @OmotosoOluwoleF
 This project aims to develop a Product Preferences Dashboard that offers a clear, centralized view of customer preferences across various car models, body types, transmission types, colors, and regions.
 The goal was to move beyond raw sales figures and instead express insights in percentages and trends, making it easier for stakeholders to quickly compare products and understand customer demand at a glance.
 
+![Product Preferences Dashboard](Project-dashboard/Project-DASHBOARD.png)
+
 # Objective of the Dashboard
 The dashboard was designed to help stakeholders:
 Track key performance indicators such as Total Cars Sold, Total Revenue, Average Order Value (AOV), and Year-on-Year (YoY) Growth
